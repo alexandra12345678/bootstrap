@@ -1,0 +1,12 @@
+.carousel-item {
+    max-height: 400px;
+}
+.card {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
